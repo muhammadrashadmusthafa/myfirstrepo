@@ -1,21 +1,11 @@
-welcome to telusko
-
-python
-java
-
-c
-c++
-perl
-
-data structures and algorithms
-data science
+version 7.0 
+added new features
 
 
-finished
+high quality image
+high amunt of memory
 
 
-
-Done my changes
-
-Final copy
-
+reliable
+robust
+efficient
