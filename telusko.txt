@@ -1,14 +1,17 @@
-welcome to telusko
+version 7.0 
+added new features
 
-python
-java
 
-c
-c++
-perl
+high quality image
+high amunt of memory
 
-data structures and algorithms
-data science
+
+reliable
+robust
+efficient
+
+
+this version is also ok
 
 
 high quality image
