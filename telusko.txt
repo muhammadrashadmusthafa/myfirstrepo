@@ -7,11 +7,15 @@ c
 c++
 perl
 
-
+data structures and algorithms
+data science
 
 
 finished
 
 
 
+Done my changes
+
 Final copy
+
